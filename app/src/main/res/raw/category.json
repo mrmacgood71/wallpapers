@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "backgrounds",
+    "text": "\uD83D\uDDBC️"
+  },
+  {
+    "id": 2,
+    "name": "fashion",
+    "text": "\uD83D\uDD76️"
+  },
+  {
+    "id": 3,
+    "name": "nature",
+    "text": "\uD83C\uDFDE️"
+  },
+  {
+    "id": 4,
+    "name": "science",
+    "text": "\uD83E\uDDEA"
+  },
+  {
+    "id": 5,
+    "name": "education",
+    "text": "\uD83D\uDCDA"
+  },
+  {
+    "id": 6,
+    "name": "feelings",
+    "text": "❤️\u200D\uD83D\uDD25"
+  },
+  {
+    "id": 7,
+    "name": "health",
+    "text": "\uD83D\uDEAC"
+  },
+  {
+    "id": 8,
+    "name": "people",
+    "text": "\uD83C\uDFC2\uD83C\uDFFC"
+  },
+  {
+    "id": 9,
+    "name": "religion",
+    "text": "☯️"
+  },
+  {
+    "id": 10,
+    "name": "places",
+    "text": "\uD83C\uDF03"
+  },
+  {
+    "id": 11,
+    "name": "animals",
+    "text": "\uD83D\uDC18"
+  },
+  {
+    "id": 12,
+    "name": "industry",
+    "text": "\uD83C\uDFED"
+  },
+  {
+    "id": 13,
+    "name": "computer",
+    "text": "\uD83D\uDCBB"
+  },
+  {
+    "id": 14,
+    "name": "food",
+    "text": "\uD83C\uDF2F"
+  },
+  {
+    "id": 15,
+    "name": "sports",
+    "text": "\uD83C\uDF2F"
+  },
+  {
+    "id": 16,
+    "name": "transportation",
+    "text": "\uD83C\uDFCD️"
+  },
+  {
+    "id": 17,
+    "name": "travel",
+    "text": "\uD83C\uDFD4️"
+  },
+  {
+    "id": 18,
+    "name": "buildings",
+    "text": "\uD83C\uDFD8️"
+  },
+  {
+    "id": 19,
+    "name": "business",
+    "text": "\uD83D\uDCB0"
+  },
+  {
+    "id": 20,
+    "name": "music",
+    "text": "\uD83C\uDFB5"
+  }
+]
