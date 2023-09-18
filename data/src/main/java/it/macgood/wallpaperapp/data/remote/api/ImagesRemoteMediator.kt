@@ -16,7 +16,6 @@ class ImagesRemoteMediator(
     private val database: WallpaperDatabase,
     private val api: UnsplashApi,
     private val category: String
-//    private val savedStateHandle: SavedStateHandle
 ) : RemoteMediator<Int, UnsplashImageEntity>() {
     var currentPage = 1
 

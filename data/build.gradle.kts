@@ -11,11 +11,11 @@ plugins {
 }
 
 
-//val secretsProperties = Properties().apply {
-//    load(File("secrets.properties").inputStream())
-//}
-//val apiKey = secretsProperties["API_KEY"] as String
-//val baseUrl = secretsProperties["BASE_URL"] as String
+val secretsProperties = Properties().apply {
+    load(File("secrets.properties").inputStream())
+}
+val apiKey = secretsProperties["API_KEY"] as String
+val baseUrl = secretsProperties["BASE_URL"] as String
 
 android {
     namespace = "it.macgood.wallpaperapp.data"
@@ -29,12 +29,12 @@ android {
 
     buildTypes {
         debug {
-//            buildConfigField("String", "API_KEY", apiKey)
-//            buildConfigField("String", "BASE_URL", baseUrl)
+            buildConfigField("String", "API_KEY", apiKey)
+            buildConfigField("String", "BASE_URL", baseUrl)
         }
         release {
-//            buildConfigField("String", "API_KEY", apiKey)
-//            buildConfigField("String", "BASE_URL", baseUrl)
+            buildConfigField("String", "API_KEY", apiKey)
+            buildConfigField("String", "BASE_URL", baseUrl)
             isMinifyEnabled = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
